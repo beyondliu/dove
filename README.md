@@ -2,9 +2,13 @@
 > A simple web appplication framework for npl.
 
 ## getting start
-
-### Install
-- run install.sh
-
 ### Useage
-- input dove new app_name to create your app
+- nplc init your_app
+- nplc install tatfook/dove --version=0.1.0 --local
+- nplc dove init
+- nplc dove start
+- localhost:8088
+
+### Online Debugger
+- launch server
+- 127.0.0.1:8088
